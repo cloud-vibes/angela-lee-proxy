@@ -1,0 +1,46 @@
+#commentSection{ 
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+#player {
+    margin: auto;
+
+}
+
+
+#description > div{
+    width: 65%;
+    padding: 0;
+    padding-left: 89px;
+}
+
+#right_bar {
+    width: 5%;
+}
+
+#right_bar .app {
+    background: #fff;
+    display: block;
+    position: inherit;
+    bottom: auto;
+    width: 482px;
+    height: 900px;
+    font: 14px/1.4 "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Garuda,Verdana,Tahoma,sans-serif;
+    font-weight: 100;
+}
+
+.containerKevin {
+    padding-left: 50px;
+}
+
+.col1 {
+    display: flex;
+    flex-direction: column
+}
+
+.itemsContainer{
+    display: flex;
+    flex-direction: row;
+}
